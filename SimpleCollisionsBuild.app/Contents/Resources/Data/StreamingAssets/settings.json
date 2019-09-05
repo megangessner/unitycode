@@ -1,0 +1,10 @@
+{
+  "num": 7,
+  "togglePolygons": true,
+  "numFrames": 100,
+  "variability":0.4,
+  "seed": 3,
+  "friction":0.2,
+  "angularDrag":0.5,
+  "saveRun":true
+}
